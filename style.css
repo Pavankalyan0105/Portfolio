@@ -2,7 +2,7 @@
 
 
 :root {
-    --primary-color: #FF63F8;
+    --primary-color: #3730A3;
     --dark-gray:#f0f0f0;
 }
 
@@ -84,7 +84,7 @@ body {
 
 .navigation {
     background-color: var(--primary-color);
-    color:#24232A;
+    color:#EAEAEA;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
 }
